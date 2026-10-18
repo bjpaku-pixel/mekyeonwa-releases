@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-18T06:08:46.668Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "maple-calendar",
+        "name": "메이플 달력",
+        "version": "1.0.0",
+        "minAppVersion": "0.3.0",
+        "description": "메이플 공식 이벤트, 개인 일정과 약속, 주간 보스 체크를 한곳에서 관리하세요.",
+        "permissions": [
+          "storage",
+          "nexon.events"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/maple-calendar-1.0.0.mekpack",
+      "sha256": "96e35e871b5a38621748f47df155fa81c68ffa849a1013a73ad00f36028315ae",
+      "size": 61096
+    }
+  ]
+}
