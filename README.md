@@ -1,12 +1,14 @@
 # 메켜놔
 
-메이플과 일상의 기록을 모으고 필요한 기능팩을 골라 설치하는 개인 대시보드입니다. 현재 **본체 0.11.0 / 메이플 달력 기능팩 1.0.0**을 독립적으로 관리합니다.
+메이플과 일상의 기록을 모으고 필요한 기능팩을 골라 설치하는 개인 대시보드입니다. 현재 **본체 0.11.1 / 메이플 달력 기능팩 1.0.0**을 독립적으로 관리합니다.
 
-[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.11.0/mekyeonwa-0.11.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.11.0)
+[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.11.1/mekyeonwa-0.11.1-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.11.1)
 
 기존 설치형 앱은 상단 **본체 업데이트**를 사용합니다. 달력팩을 재설치할 필요는 없습니다. Windows를 우선 배포하며 Mac 서명·설치·실행·업데이트 검증은 별도입니다.
 
 ## 화면과 사용 흐름
+
+중앙 본문만 스크롤하고 본문 스크롤바는 오른쪽 기능 목록 왼쪽에 표시됩니다. 상단과 양쪽 사이드바는 고정되며 긴 기능 목록만 자체 영역에서 스크롤됩니다.
 
 왼쪽은 홈·개인 공간·기능 센터와 설치한 기능, 가운데는 현재 화면, 오른쪽은 **항상 표시되는 기능 목록**입니다. 등록 항목이 10개면 전체 10개를 표시합니다. 우측 너비를 조절할 수 있고 닫기·접기·겹쳐 표시 기능은 없습니다. 본체는 기본 1720×1000으로 열되 모니터 작업 영역을 넘지 않도록 맞춥니다. 작은 창에서는 왼쪽 메뉴를 아이콘으로 줄입니다. 톱니는 설정으로 바로 이동합니다.
 
