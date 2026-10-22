@@ -1,7 +1,37 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-18T06:08:46.668Z",
+  "updatedAt": "2026-10-22T11:19:58.257Z",
   "packs": [
+    {
+      "manifest": {
+        "id": "everyday-calculator",
+        "name": "생활 계산기",
+        "version": "1.0.0",
+        "minAppVersion": "0.16.0",
+        "description": "일반 계산, 금액 한글 표기, 퍼센트, 날짜와 단위 변환을 각각의 도구로 빠르게 사용하세요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/everyday-calculator-1.0.0.mekpack",
+      "sha256": "0ed402f44cff15f8a9a79d0113592752849631e0a6c0c5637b349e0e71328ebf",
+      "size": 34706
+    },
+    {
+      "manifest": {
+        "id": "idea-space",
+        "name": "생각 보관함",
+        "version": "1.0.0",
+        "minAppVersion": "0.16.0",
+        "description": "페이지에 글, 제목, 접어 두는 토글과 체크리스트를 담고 보드에서 카드를 자유롭게 정리하세요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/idea-space-1.0.0.mekpack",
+      "sha256": "6785bb0c37d95a09fbb93dbf569a84da2f741f46e19416f24238f72688bfa012",
+      "size": 39162
+    },
     {
       "manifest": {
         "id": "maple-calendar",
