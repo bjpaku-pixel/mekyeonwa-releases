@@ -2,11 +2,13 @@
 
 메이플과 일상의 기록을 모으고, 필요한 기능을 선택해 설치하는 데스크톱 개인 대시보드입니다.
 
-**본체 0.16.0 · 메이플 달력 1.0.0 · 생활 계산기 1.0.0 · 생각 보관함 1.0.0**을 독립적으로 관리합니다.
+**본체 0.16.1 · 메이플 달력 1.0.0 · 생활 계산기 1.0.1 · 생각 보관함 1.0.0**을 독립적으로 관리합니다.
 
-[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.16.0/mekyeonwa-0.16.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.16.0)
+[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.16.1/mekyeonwa-0.16.1-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.16.1)
 
 기존 Windows 설치형 앱은 상단 **본체 업데이트**에서 새 버전을 받습니다. 다운로드·설치는 직접 선택합니다. 메이플 달력을 재설치할 필요는 없습니다. Mac 서명·설치·실행·업데이트는 아직 별도 검증이 필요합니다.
+
+실행 화면은 기능 이름을 한 번만 표시하고, 도구 전환은 우측 기능 사이드바에서 합니다. 도구 항목은 이름만 표시합니다. 생활 계산기 1.0.1은 중앙 자체 선택 메뉴·중복 제목·소개를 없애고 계산 결과를 유지합니다.
 
 ## 개인 공간
 
@@ -54,6 +56,7 @@ API 키·개인 기록·서명 개인 키는 공개 파일에 포함하지 않�
 
 현행 기준은 [NEXON Open API 이용약관](https://openapi.nexon.com/ko/support/terms/)과 [메이플스토리 운영 안내](https://maplestory.nexon.com/Guide/N23GameInformation/Articles/452)를 확인합니다. 정책과 API 범위에 따라 지원 기능이 바뀔 수 있습니다.
 
-자동 검사 650개 / 58개 파일, TypeScript·Vite·Windows 설치 빌드와 새 기능팩 설치·저장·재설치 검사를 통과했습니다.
+자동 검사 653개 / 58개 파일, TypeScript·Vite·Windows 설치 빌드를 통과했습니다.
 
 실제 앱 화면 직접 조작·설치 간 자동 업데이트·Mac 실행은 별도 미검증입니다.
+
