@@ -1,21 +1,23 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T11:59:31.401Z",
+  "updatedAt": "2026-10-23T15:44:33.944Z",
   "packs": [
     {
       "manifest": {
         "id": "everyday-calculator",
         "name": "생활 계산기",
-        "version": "1.0.1",
-        "minAppVersion": "0.16.0",
+        "version": "1.0.2",
+        "minAppVersion": "0.20.0",
         "description": "일반 계산, 금액 한글 표기, 퍼센트, 날짜와 단위 변환을 각각의 도구로 빠르게 사용하세요.",
         "permissions": [
           "storage"
         ]
       },
-      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/everyday-calculator-1.0.1.mekpack",
-      "sha256": "5955b3c9a20d3fd143c653685e2bb39e5f7ba311ab7e6d6f2e62982f2e240e9b",
-      "size": 32783
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/everyday-calculator-1.0.2.mekpack",
+      "sha256": "c448970927716dc7ecb95d20ed8883bf5c28a385ca61a084952e2433417b340b",
+      "size": 35626,
+      "addedAt": "2026-10-22",
+      "modifiedAt": "2026-10-24"
     },
     {
       "manifest": {
@@ -36,17 +38,19 @@
       "manifest": {
         "id": "maple-calendar",
         "name": "메이플 달력",
-        "version": "1.0.0",
-        "minAppVersion": "0.3.0",
+        "version": "1.0.1",
+        "minAppVersion": "0.20.0",
         "description": "메이플 공식 이벤트, 개인 일정과 약속, 주간 보스 체크를 한곳에서 관리하세요.",
         "permissions": [
           "storage",
           "nexon.events"
         ]
       },
-      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/maple-calendar-1.0.0.mekpack",
-      "sha256": "96e35e871b5a38621748f47df155fa81c68ffa849a1013a73ad00f36028315ae",
-      "size": 61096
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-v1/maple-calendar-1.0.1.mekpack",
+      "sha256": "9fd160fb352992ef3d61e85e75151aac8ac04cc97d06db5e06450e2d53f9d99a",
+      "size": 64715,
+      "addedAt": "2026-10-18",
+      "modifiedAt": "2026-10-24"
     }
   ]
 }
