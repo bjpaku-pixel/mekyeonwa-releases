@@ -2,9 +2,9 @@
 
 메이플과 일상의 기록을 모으고, 필요한 기능을 선택해 설치하는 데스크톱 개인 대시보드입니다.
 
-**본체 0.20.0 · 메이플 달력 1.0.1 · 생활 계산기 1.0.2 · 생각 보관함 1.0.0**을 독립적으로 관리합니다.
+**본체 0.20.1 · 메이플 달력 1.0.1 · 생활 계산기 1.0.2 · 생각 보관함 1.0.0**을 독립적으로 관리합니다.
 
-[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.20.0/mekyeonwa-0.20.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.20.0)
+[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.20.1/mekyeonwa-0.20.1-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.20.1)
 
 실행할 때 **메켜놔 실행 중입니다** 로딩을 표시합니다. 첫 실행에는 컴퓨터 시작 시 자동 실행 ON/OFF를 고릅니다. 이후 시작 페이지에서 **시작하기**로 입장하며 상단 시작 화면 버튼으로 돌아갈 수 있습니다. 로그인은 준비 중이며 계정 없이 사용할 수 있습니다. 트레이에서 다시 열면 쓰던 화면을 유지합니다.
 
@@ -13,6 +13,8 @@
 실행 화면은 기능 이름을 한 번만 표시하고, 도구 전환은 우측 기능 사이드바에서 합니다. 도구 항목은 이름만 표시합니다. 생활 계산기 1.0.2는 중앙 자체 선택 메뉴·중복 제목·소개를 없애고 계산 결과를 유지합니다.
 
 생활 계산기 1.0.2와 메이플 달력 1.0.1은 중앙 본문에서 스크롤합니다. 달력은 공식 API가 이미 제공하는 종료일을 이용해 종료일만 또는 전체 기간으로 표시합니다. 이 두 팩은 본체 0.20.0 이상이 필요하며 기능 센터에서 따로 업데이트합니다. 기존 팩 원본과 생각 보관함은 유지합니다.
+
+0.20.1은 창이 닫힌 뒤 로딩 자원을 다시 정리하면서 나타나던 “Object has been destroyed” 오류를 수정합니다. 기능팩 버전은 그대로 유지합니다.
 
 ## 개인 공간
 
@@ -64,6 +66,6 @@ API 키·개인 기록·서명 개인 키는 공개 파일에 포함하지 않�
 
 현행 기준은 [NEXON Open API 이용약관](https://openapi.nexon.com/ko/support/terms/)과 [메이플스토리 운영 안내](https://maplestory.nexon.com/Guide/N23GameInformation/Articles/452)를 확인합니다. 정책과 API 범위에 따라 지원 기능이 바뀔 수 있습니다.
 
-자동 검사 921개 / 71개 파일, TypeScript·Vite·Windows 설치 빌드와 최종 배포 묶음 검사를 통과했습니다.
+자동 검사 923개 / 71개 파일, TypeScript·Vite·Windows 설치 빌드와 최종 배포 묶음 검사를 통과했습니다.
 
 실제 앱 화면 직접 조작·설치 간 자동 업데이트·Mac 실행은 별도 미검증입니다.
