@@ -1,0 +1,288 @@
+{
+  "schemaVersion": 2,
+  "updatedAt": "2026-10-25T09:30:00.000Z",
+  "domains": [
+    {
+      "id": "maple",
+      "label": "메이플 기능",
+      "description": "메이플 생활에 필요한 기능",
+      "enabled": true,
+      "order": 10,
+      "catalog": {
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/2a11e66a1621a0952810975e0e30d495510ce10760a635ac98d6827df701e220.json",
+        "size": 820,
+        "sha256": "2a11e66a1621a0952810975e0e30d495510ce10760a635ac98d6827df701e220"
+      }
+    },
+    {
+      "id": "personal",
+      "label": "개인 기능",
+      "description": "나의 일상을 위한 기능",
+      "enabled": true,
+      "order": 20,
+      "catalog": {
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/7d402e1f0953379ede2de635674bb87904fbf56464afe16a1c7dd72cb90a1148.json",
+        "size": 1502,
+        "sha256": "7d402e1f0953379ede2de635674bb87904fbf56464afe16a1c7dd72cb90a1148"
+      }
+    },
+    {
+      "id": "extra-1",
+      "label": "준비 중",
+      "description": "새로운 영역을 준비하고 있어요",
+      "enabled": false,
+      "order": 30
+    },
+    {
+      "id": "extra-2",
+      "label": "준비 중",
+      "description": "새로운 영역을 준비하고 있어요",
+      "enabled": false,
+      "order": 40
+    }
+  ],
+  "categories": [
+    {
+      "id": "guide",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "가이드",
+      "description": "성장과 플레이에 필요한 안내",
+      "order": 10,
+      "icon": "guide"
+    },
+    {
+      "id": "events",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "이벤트",
+      "description": "이벤트와 일정을 한눈에",
+      "order": 20,
+      "icon": "events"
+    },
+    {
+      "id": "boss",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "보스",
+      "description": "보스 공략과 도전 준비",
+      "order": 30,
+      "icon": "boss"
+    },
+    {
+      "id": "enhancement",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "강화 도구",
+      "description": "강화에 필요한 도구 모음",
+      "order": 40,
+      "icon": "enhancement"
+    },
+    {
+      "id": "progression",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "내실 분석기",
+      "description": "캐릭터의 내실을 한눈에",
+      "order": 50,
+      "icon": "progression"
+    },
+    {
+      "id": "equipment",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "템셋팅",
+      "description": "나에게 맞는 장비 준비",
+      "order": 60,
+      "icon": "equipment"
+    },
+    {
+      "id": "other",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "기타 기능",
+      "description": "다른 메이플 기능",
+      "order": 70,
+      "icon": "other"
+    },
+    {
+      "id": "calculation",
+      "domainId": "personal",
+      "parentId": null,
+      "label": "계산 도구",
+      "description": "일상에서 자주 사용하는 계산",
+      "order": 80,
+      "icon": "calculation"
+    },
+    {
+      "id": "record",
+      "domainId": "personal",
+      "parentId": null,
+      "label": "기록과 정리",
+      "description": "생각을 자유롭게 담는 공간",
+      "order": 90,
+      "icon": "record"
+    },
+    {
+      "id": "productivity",
+      "domainId": "personal",
+      "parentId": null,
+      "label": "생산성",
+      "description": "일과 시간을 정리하는 도구",
+      "order": 100,
+      "icon": "productivity"
+    },
+    {
+      "id": "life",
+      "domainId": "personal",
+      "parentId": null,
+      "label": "생활 도구",
+      "description": "생활에 도움이 되는 기능",
+      "order": 110,
+      "icon": "life"
+    },
+    {
+      "id": "personal-other",
+      "domainId": "personal",
+      "parentId": null,
+      "label": "기타 기능",
+      "description": "다른 개인 기능",
+      "order": 120,
+      "icon": "other"
+    }
+  ],
+  "planned": [
+    {
+      "id": "event-sunday-maple",
+      "name": "썬데이 메이플",
+      "domainId": "maple",
+      "categoryId": "events"
+    },
+    {
+      "id": "boss-kaling",
+      "name": "카링",
+      "domainId": "maple",
+      "categoryId": "boss"
+    },
+    {
+      "id": "boss-bellona",
+      "name": "벨로나",
+      "domainId": "maple",
+      "categoryId": "boss"
+    },
+    {
+      "id": "enhance-potential",
+      "name": "잠재능력/에디셔널",
+      "domainId": "maple",
+      "categoryId": "enhancement"
+    },
+    {
+      "id": "enhance-soul",
+      "name": "소울 증폭 + 소울 잠재",
+      "domainId": "maple",
+      "categoryId": "enhancement"
+    },
+    {
+      "id": "enhance-stones",
+      "name": "연마석 + 신마석",
+      "domainId": "maple",
+      "categoryId": "enhancement"
+    },
+    {
+      "id": "enhance-additional-option",
+      "name": "추가 옵션",
+      "domainId": "maple",
+      "categoryId": "enhancement"
+    },
+    {
+      "id": "enhance-starforce",
+      "name": "스타포스",
+      "domainId": "maple",
+      "categoryId": "enhancement"
+    },
+    {
+      "id": "enhance-todd",
+      "name": "토드",
+      "domainId": "maple",
+      "categoryId": "enhancement"
+    },
+    {
+      "id": "progression-optimization",
+      "name": "내실 최적화",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-hyper-stat",
+      "name": "하이퍼 스탯",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-ability",
+      "name": "어빌리티",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-guild",
+      "name": "길드",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-buff-duration",
+      "name": "버프 지속 시간",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-critical-rate",
+      "name": "크리티컬 확률",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-required-skills",
+      "name": "필수 스킬 얻는 법",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-ignore-defense",
+      "name": "방어율 무시",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-link-union",
+      "name": "링크 스킬 + 유니온",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-exp-buff",
+      "name": "경험치 도핑",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "progression-boss-buff",
+      "name": "보스 도핑",
+      "domainId": "maple",
+      "categoryId": "progression"
+    },
+    {
+      "id": "equipment-title",
+      "name": "칭호",
+      "domainId": "maple",
+      "categoryId": "equipment"
+    },
+    {
+      "id": "equipment-medal",
+      "name": "훈장",
+      "domainId": "maple",
+      "categoryId": "equipment"
+    }
+  ]
+}
