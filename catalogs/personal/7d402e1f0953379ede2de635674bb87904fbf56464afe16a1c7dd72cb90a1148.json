@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "domainId": "personal",
+  "updatedAt": "2026-10-25T09:30:00.000Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "everyday-calculator",
+        "name": "생활 계산기",
+        "version": "1.0.3",
+        "minAppVersion": "0.22.0",
+        "description": "일반 계산, 금액 한글 표기, 퍼센트, 날짜와 단위 변환을 각각의 도구로 빠르게 사용하세요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-personal/everyday-calculator-1.0.3.mekpack",
+      "sha256": "fa42c3c8c7e298132663b5be9978fe515689b10b1283f75ee447de8d3d841443",
+      "size": 36072,
+      "addedAt": "2026-10-22",
+      "modifiedAt": "2026-10-24",
+      "categoryId": "calculation"
+    },
+    {
+      "manifest": {
+        "id": "idea-space",
+        "name": "생각 보관함",
+        "version": "1.0.1",
+        "minAppVersion": "0.22.0",
+        "description": "페이지에 글, 제목, 접어 두는 토글과 체크리스트를 담고 보드에서 카드를 자유롭게 정리하세요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-personal/idea-space-1.0.1.mekpack",
+      "sha256": "10d83193fa1de437b859557a8d9eaba1d90523a846f08ecd4e006c9ac63e9027",
+      "size": 40283,
+      "modifiedAt": "2026-10-24",
+      "categoryId": "record"
+    }
+  ]
+}
