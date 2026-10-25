@@ -2,9 +2,9 @@
 
 메이플과 일상의 기록을 모으고, 필요한 기능을 선택해 설치하는 데스크톱 개인 대시보드입니다.
 
-**본체 0.26.1 · 메이플 달력 1.0.1 · 생활 계산기 1.0.3 · 생각 보관함 1.0.1**을 독립적으로 관리합니다. 0.26.1은 설치 메뉴 아이콘과 글자를 개인 공간과 같은 왼쪽 시작선에 맞춥니다. 기존 기능 목록과 배포 주소는 유지합니다.
+**본체 0.26.2 · 메이플 달력 1.0.1 · 생활 계산기 1.0.3 · 생각 보관함 1.0.1**을 독립적으로 관리합니다. 0.26.2는 홈에 마우스를 올릴 때 빛이 한 번 지나가며, 메뉴를 약0.56초 동안 부드럽게 펼치고 접습니다. 기존 기능 목록과 배포 주소는 유지합니다.
 
-[0.26.1 Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.26.1/mekyeonwa-0.26.1-windows-setup.exe) · [0.26.1 변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.26.1)
+[0.26.2 Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.26.2/mekyeonwa-0.26.2-windows-setup.exe) · [0.26.2 변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.26.2)
 
 Windows 설치 단계에서 임시 베타 안내를 확인하고 바탕화면 바로가기와 자동 실행 ON/OFF를 선택합니다. 설치 선택은 앱에서 중복해 묻지 않습니다. 실행할 때 **메켜놔 실행 중입니다** 로딩을 표시하고 좌측 브랜드·우측 로그인 준비 화면에서 **로그인 없이 시작하기**로 입장합니다. 상단 버튼으로 시작 화면에 돌아갈 수 있습니다. 로그인은 준비 중이며 계정 없이 사용할 수 있습니다. 트레이에서 다시 열면 쓰던 화면을 유지합니다.
 
