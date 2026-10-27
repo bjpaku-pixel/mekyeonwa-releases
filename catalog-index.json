@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-26T17:43:52.000Z",
+  "updatedAt": "2026-10-27T12:10:42.206Z",
   "domains": [
     {
       "id": "maple",
@@ -21,9 +21,9 @@
       "enabled": true,
       "order": 20,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/d04530178615405faf2c252a86b83334211eec6c6161366f6565676b366ef919.json",
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/dd10cba9bc68a358c6f324d24742f598081a28ad1615b298d0f94705b046b1b7.json",
         "size": 1502,
-        "sha256": "d04530178615405faf2c252a86b83334211eec6c6161366f6565676b366ef919"
+        "sha256": "dd10cba9bc68a358c6f324d24742f598081a28ad1615b298d0f94705b046b1b7"
       }
     },
     {
