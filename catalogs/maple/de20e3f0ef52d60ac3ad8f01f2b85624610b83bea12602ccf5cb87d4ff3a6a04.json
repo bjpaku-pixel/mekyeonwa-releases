@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "domainId": "maple",
+  "updatedAt": "2026-10-27T15:31:13.928Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "maple-calendar",
+        "name": "달력+스케줄러",
+        "version": "1.1.0",
+        "minAppVersion": "0.33.0",
+        "description": "메이플 공식 이벤트 달력과 본인 캐릭터의 API 숙제 현황, 캐릭터별·계정 공통 수동 숙제를 한곳에서 관리하세요.",
+        "permissions": [
+          "storage",
+          "nexon.events",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-calendar-1.1.0.mekpack",
+      "sha256": "28f70b91e8beb144e079fc0ab006a2481115cdbd4fb865e70aff01101ee522e5",
+      "size": 95308,
+      "addedAt": "2026-10-18",
+      "modifiedAt": "2026-10-28",
+      "categoryId": "events"
+    }
+  ]
+}
