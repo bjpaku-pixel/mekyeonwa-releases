@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-10-27T15:31:13.928Z",
+  "updatedAt": "2026-10-28T12:40:00Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/de20e3f0ef52d60ac3ad8f01f2b85624610b83bea12602ccf5cb87d4ff3a6a04.json",
-        "size": 896,
-        "sha256": "de20e3f0ef52d60ac3ad8f01f2b85624610b83bea12602ccf5cb87d4ff3a6a04"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/ed2acf0e3f22a6f0a18c9e508c5100960ce6c57e9e9ccb8399d524f6b5d96b0b.json",
+        "size": 1609,
+        "sha256": "ed2acf0e3f22a6f0a18c9e508c5100960ce6c57e9e9ccb8399d524f6b5d96b0b"
       }
     },
     {
@@ -43,66 +43,84 @@
   ],
   "categories": [
     {
-      "id": "guide",
+      "id": "scheduler",
       "domainId": "maple",
       "parentId": null,
-      "label": "가이드",
-      "description": "성장과 플레이에 필요한 안내",
+      "label": "스케줄러",
+      "description": "숙제와 반복 기록",
       "order": 10,
-      "icon": "guide"
+      "icon": "productivity"
     },
     {
       "id": "events",
       "domainId": "maple",
       "parentId": null,
       "label": "이벤트",
-      "description": "이벤트와 일정을 한눈에",
+      "description": "메이플 공식 이벤트와 일정",
       "order": 20,
       "icon": "events"
     },
     {
-      "id": "boss",
+      "id": "cash",
       "domainId": "maple",
       "parentId": null,
-      "label": "보스",
-      "description": "보스 공략과 도전 준비",
+      "label": "캐시",
+      "description": "캐시 관련 기능",
       "order": 30,
-      "icon": "boss"
+      "icon": "life"
     },
     {
-      "id": "enhancement",
+      "id": "guide",
       "domainId": "maple",
       "parentId": null,
-      "label": "강화 도구",
-      "description": "강화에 필요한 도구 모음",
+      "label": "직업",
+      "description": "직업별 안내와 정보",
       "order": 40,
-      "icon": "enhancement"
+      "icon": "guide"
     },
     {
       "id": "progression",
       "domainId": "maple",
       "parentId": null,
       "label": "내실 분석기",
-      "description": "캐릭터의 내실을 한눈에",
+      "description": "캐릭터 내실 분석",
       "order": 50,
       "icon": "progression"
+    },
+    {
+      "id": "enhancement",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "강화 도구",
+      "description": "강화 관련 도구",
+      "order": 60,
+      "icon": "enhancement"
     },
     {
       "id": "equipment",
       "domainId": "maple",
       "parentId": null,
       "label": "템셋팅",
-      "description": "나에게 맞는 장비 준비",
-      "order": 60,
+      "description": "장비 세팅과 선택",
+      "order": 70,
       "icon": "equipment"
+    },
+    {
+      "id": "boss",
+      "domainId": "maple",
+      "parentId": null,
+      "label": "보스",
+      "description": "보스 공략과 준비",
+      "order": 80,
+      "icon": "boss"
     },
     {
       "id": "other",
       "domainId": "maple",
       "parentId": null,
-      "label": "기타 기능",
-      "description": "다른 메이플 기능",
-      "order": 70,
+      "label": "편리 기능",
+      "description": "메이플 생활 편의 기능",
+      "order": 90,
       "icon": "other"
     },
     {
