@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "domainId": "maple",
+  "updatedAt": "2026-10-31T10:00:00.000Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "maple-calendar",
+        "name": "메이플 달력",
+        "version": "1.2.0",
+        "minAppVersion": "0.35.0",
+        "description": "메이플스토리 공식 이벤트의 종료일과 개인 일정·약속을 달력에서 확인하세요. 숙제 스케줄러는 별도 기능으로 설치합니다.",
+        "permissions": [
+          "storage",
+          "nexon.events"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-calendar-1.2.0.mekpack",
+      "sha256": "9e5518bd92dfb3592199354176ff1196335a090d115ed289ff230faf12bf7c87",
+      "size": 57911,
+      "addedAt": "2026-10-18",
+      "modifiedAt": "2026-10-28",
+      "categoryId": "events"
+    },
+    {
+      "manifest": {
+        "id": "maple-scheduler",
+        "name": "스케줄러",
+        "version": "1.2.0",
+        "minAppVersion": "0.41.0",
+        "description": "본인 계정의 공식 API 숙제·보스 현황을 세 캐릭터씩 확인하고 표시 순서와 항목을 설정하세요. 자동·수동 화면은 우측 기능 목록에서 구분합니다.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-scheduler-1.2.0.mekpack",
+      "sha256": "8a5bdc1bd74c438636164aab7d253e1e22627b1c299103b8b65fe3e9b80f0acb",
+      "size": 144376,
+      "addedAt": "2026-10-28",
+      "modifiedAt": "2026-10-31",
+      "categoryId": "scheduler"
+    }
+  ]
+}
