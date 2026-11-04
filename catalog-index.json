@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-04T11:26:43.423Z",
+  "updatedAt": "2026-11-04T13:36:00.381Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/961a01baf6da1ecb8fd40a3ef2a67d86163c481378b1ee1468cfbfbcb1255e07.json",
-        "size": 4135,
-        "sha256": "961a01baf6da1ecb8fd40a3ef2a67d86163c481378b1ee1468cfbfbcb1255e07"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/babadd1b26242ab27e076eaa9744f4b78a82c93775dcebdc8234006c733dad38.json",
+        "size": 4136,
+        "sha256": "babadd1b26242ab27e076eaa9744f4b78a82c93775dcebdc8234006c733dad38"
       }
     },
     {
@@ -28,8 +28,8 @@
     },
     {
       "id": "extra-1",
-      "label": "준비 중",
-      "description": "새로운 영역을 준비하고 있어요",
+      "label": "파트너스",
+      "description": "파트너가 제공하는 기능",
       "enabled": false,
       "order": 30
     },
