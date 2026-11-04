@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 2,
+  "domainId": "maple",
+  "updatedAt": "2026-11-04T11:26:43.423Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "boss-extreme-lotus",
+        "name": "익스트림 스우",
+        "version": "1.0.0",
+        "minAppVersion": "0.26.0",
+        "description": "익스트림 스우 빌드를 세로 타임라인으로 짜세요. 리모컨에서 극딜·바인드·보스 패턴을 끌어다 놓고 페이즈와 메모를 함께 정리합니다.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/boss-extreme-lotus-1.0.0.mekpack",
+      "sha256": "b5357602b6b1733cc964c3cc7d5a5c91db3a88731d75e63ae8d80616ef32816f",
+      "size": 108088,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-04",
+      "categoryId": "boss"
+    },
+    {
+      "manifest": {
+        "id": "maple-boss-income",
+        "name": "보스 수익",
+        "version": "1.0.0",
+        "minAppVersion": "0.33.0",
+        "description": "잡은 주간·월간 보스의 결정석 수익을 달력으로 모아 보세요. 넥슨 API로 이번 주 잡은 보스를 확인해 골라 넣고, 파티 인원과 가격표를 직접 정할 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-boss-income-1.0.0.mekpack",
+      "sha256": "83cea9317f29a26fda29696e0d8a9393050b4a100b39a8379bdabab03a99d92e",
+      "size": 92793,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-04",
+      "categoryId": "other"
+    },
+    {
+      "manifest": {
+        "id": "maple-calendar",
+        "name": "메이플 달력",
+        "version": "1.2.0",
+        "minAppVersion": "0.35.0",
+        "description": "메이플스토리 공식 이벤트의 종료일과 개인 일정·약속을 달력에서 확인하세요. 숙제 스케줄러는 별도 기능으로 설치합니다.",
+        "permissions": [
+          "storage",
+          "nexon.events"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-calendar-1.2.0.mekpack",
+      "sha256": "9e5518bd92dfb3592199354176ff1196335a090d115ed289ff230faf12bf7c87",
+      "size": 57911,
+      "addedAt": "2026-10-18",
+      "modifiedAt": "2026-10-28",
+      "categoryId": "events"
+    },
+    {
+      "manifest": {
+        "id": "maple-scheduler",
+        "name": "스케줄러",
+        "version": "1.2.0",
+        "minAppVersion": "0.41.0",
+        "description": "본인 계정의 공식 API 숙제·보스 현황을 세 캐릭터씩 확인하고 표시 순서와 항목을 설정하세요. 자동·수동 화면은 우측 기능 목록에서 구분합니다.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-scheduler-1.2.0.mekpack",
+      "sha256": "8a5bdc1bd74c438636164aab7d253e1e22627b1c299103b8b65fe3e9b80f0acb",
+      "size": 144376,
+      "addedAt": "2026-10-28",
+      "modifiedAt": "2026-10-31",
+      "categoryId": "scheduler"
+    },
+    {
+      "manifest": {
+        "id": "progression-link-union",
+        "name": "링크 스킬 + 유니온",
+        "version": "1.0.0",
+        "minAppVersion": "0.26.0",
+        "description": "직업별 링크 스킬 1~3레벨 효과와 유니온 등급별 효과를 한곳에서 확인하세요. 12칸 링크 조합 합계와 내 유니온 효과를 계산하고, 목적별 추천 조합과 부캐 육성 순서를 참고할 수 있어요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/progression-link-union-1.0.0.mekpack",
+      "sha256": "f93c7653dd9aba2fdb6c50183f5c2878fe287ec810f634e1b00ee5369307e474",
+      "size": 101506,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-04",
+      "categoryId": "progression"
+    }
+  ]
+}
