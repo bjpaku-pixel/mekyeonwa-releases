@@ -1,0 +1,4 @@
+{
+  "payload": "{\"schemaVersion\":1,\"version\":\"0.44.0\",\"platform\":\"win32\",\"arch\":\"x64\",\"url\":\"https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.44.0/mekyeonwa-0.44.0-windows-setup.exe\",\"size\":129990176,\"sha512\":\"EkFeA0DcX2Fs4IY5AkdA0p1nBo4F/uJLYOPcx5/kNGJfMWFq5BCFu72lJbQvViTlqMcp/OVUTDBswr2tRJCBpg==\",\"issuedAt\":\"2026-11-05T11:28:58.818Z\",\"expiresAt\":\"2026-12-05T11:28:58.818Z\"}",
+  "signature": "WcnuyaTIOqCSwUfKFJVHNbY5YFh+v1FE3DqaWEtEFsQiXEVdEUf+G7ELGStxQ2dVePmxs9JNhiTqwUI9e+8IBA=="
+}
