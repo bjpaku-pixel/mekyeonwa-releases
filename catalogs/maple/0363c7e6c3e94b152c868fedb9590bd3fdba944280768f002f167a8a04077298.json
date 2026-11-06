@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 2,
+  "domainId": "maple",
+  "updatedAt": "2026-11-06T15:11:09.000Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "boss-extreme-lotus",
+        "name": "익스트림 스우",
+        "version": "1.0.2",
+        "minAppVersion": "0.26.0",
+        "description": "익스트림 스우 빌드를 세로 타임라인으로 짜세요. 리모컨에서 극딜·바인드·보스 패턴을 끌어다 놓고 페이즈와 메모를 함께 정리합니다.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/boss-extreme-lotus-1.0.2.mekpack",
+      "sha256": "b4b2dd81121b6e0a022e29afa2b745490a91e248eade24376cc2af95163847bc",
+      "size": 109419,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "boss"
+    },
+    {
+      "manifest": {
+        "id": "maple-boss-income",
+        "name": "보스 수익",
+        "version": "1.0.2",
+        "minAppVersion": "0.41.0",
+        "description": "잡은 주간·월간 보스의 결정석 수익을 달력으로 모아 보세요. 넥슨 API로 이번 주 잡은 보스를 확인해 골라 넣고, 파티 인원과 가격표를 직접 정할 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-boss-income-1.0.2.mekpack",
+      "sha256": "ee285227746ab3c07cbfb26613a295cafb385b31471006a8881d01da4420ff00",
+      "size": 117701,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "other"
+    },
+    {
+      "manifest": {
+        "id": "maple-calendar",
+        "name": "메이플 달력",
+        "version": "1.2.1",
+        "minAppVersion": "0.35.0",
+        "description": "메이플스토리 공식 이벤트의 종료일과 개인 일정·약속을 달력에서 확인하세요. 숙제 스케줄러는 별도 기능으로 설치합니다.",
+        "permissions": [
+          "storage",
+          "nexon.events"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-calendar-1.2.1.mekpack",
+      "sha256": "8f4a93533d20ae6fad3f52c5d5adadb484bf42fb210be31b281ce4f4eea14333",
+      "size": 64599,
+      "addedAt": "2026-10-18",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "events"
+    },
+    {
+      "manifest": {
+        "id": "maple-scheduler",
+        "name": "스케줄러",
+        "version": "1.2.2",
+        "minAppVersion": "0.41.0",
+        "description": "본인 계정의 공식 API 숙제·보스 현황을 세 캐릭터씩 확인하고 표시 순서와 항목을 설정하세요. 자동·수동 화면은 우측 기능 목록에서 구분합니다.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-scheduler-1.2.2.mekpack",
+      "sha256": "1b9b7fa052311425e48102a06372e37d058b6c99bdaa480c8b6263c8b24caffd",
+      "size": 158367,
+      "addedAt": "2026-10-28",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "scheduler"
+    },
+    {
+      "manifest": {
+        "id": "progression-link-union",
+        "name": "링크 스킬 + 유니온",
+        "version": "1.0.2",
+        "minAppVersion": "0.26.0",
+        "description": "직업별 링크 스킬 1~3레벨 효과와 유니온 등급별 효과를 한곳에서 확인하세요. 12칸 링크 조합 합계와 내 유니온 효과를 계산하고, 목적별 추천 조합과 부캐 육성 순서를 참고할 수 있어요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/progression-link-union-1.0.2.mekpack",
+      "sha256": "4546a7372425a125ec8da6e221157f61822726e731bea495b072febb71aa9d78",
+      "size": 105931,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "progression"
+    },
+    {
+      "manifest": {
+        "id": "progression-optimization",
+        "name": "내실 최적화",
+        "version": "1.1.0",
+        "minAppVersion": "0.44.0",
+        "description": "캐릭터 이름으로 하이퍼 스탯·링크 스킬·유니온 스탯·스탯창을 한 번에 불러와, 보스 데미지가 가장 높아지는 세팅과 바꿀 것을 알려 드려요. 하이퍼 스탯 배분, 넣고 뺄 링크, 유니온 포인트 배분을 각각 자세히 볼 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/progression-optimization-1.1.0.mekpack",
+      "sha256": "dd94e81338191bf4c88fe10b6b7a4a416be6e6b2cfca2927c097626c0de074e2",
+      "size": 217950,
+      "addedAt": "2026-11-05",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "progression"
+    }
+  ]
+}
+
