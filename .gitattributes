@@ -1,0 +1,4 @@
+# Catalog hashes and signatures describe exact bytes. Never normalize newlines.
+/catalog-index.json -text
+/catalogs/**/*.json -text
+/updates/*.json -text
