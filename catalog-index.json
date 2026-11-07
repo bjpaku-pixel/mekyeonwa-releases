@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-06T17:51:04.347Z",
+  "updatedAt": "2026-11-07T05:51:20.882Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/4266d9e2bc75d1fc360afd9720f445dd2de7dcba3ae790c37fb301bdc35c1c6a.json",
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/6a3f8495fa9b8e3677e3587a31edea62ef52813c3a75d090e788aabda9f24d28.json",
         "size": 5068,
-        "sha256": "4266d9e2bc75d1fc360afd9720f445dd2de7dcba3ae790c37fb301bdc35c1c6a"
+        "sha256": "6a3f8495fa9b8e3677e3587a31edea62ef52813c3a75d090e788aabda9f24d28"
       }
     },
     {
@@ -21,9 +21,9 @@
       "enabled": true,
       "order": 20,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/9eebf11b3d0cbfc7e8e22e4eba5db74cbcdd94a6c7698ef4f7d8800857fa3feb.json",
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/b3758cf6aef321620e749da235a196645e44931563dbf03147caae0e0103b38a.json",
         "size": 1502,
-        "sha256": "9eebf11b3d0cbfc7e8e22e4eba5db74cbcdd94a6c7698ef4f7d8800857fa3feb"
+        "sha256": "b3758cf6aef321620e749da235a196645e44931563dbf03147caae0e0103b38a"
       }
     },
     {
