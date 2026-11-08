@@ -2,9 +2,9 @@
 
 메이플과 일상의 기록을 모으고, 필요한 기능을 선택해 설치하는 데스크톱 개인 대시보드입니다.
 
-최신 본체는 **0.47.0**입니다.
+최신 본체는 **0.48.0**입니다.
 
-[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.47.0/mekyeonwa-0.47.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.47.0)
+[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.48.0/mekyeonwa-0.48.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.48.0)
 
 ## 업데이트
 
@@ -20,6 +20,12 @@
 | 링크 스킬 + 유니온 | 1.0.2 |
 | 생활 계산기 | 1.0.6 |
 | 생각 보관함 | 1.0.1 |
+
+## 0.48.0 변경
+
+최신 시작 화면 시안을 적용하고 바깥 회색 여백을 제거했습니다. 작은 로고·자동 실행 설정과 큰 시작 버튼을 위로 모으고 광고 영역을 약2배 높이로 늘렸습니다.
+
+일반 로그아웃·시작 화면 복귀는 현재 세션과 자동 로그인 토큰을 종료하고 개인 기록을 잠그며, 선택 저장한 아이디·OS 암호화 비밀번호는 유지합니다. 시작 화면의 로그인 정보 삭제를 선택하면 저장 정보까지 지웁니다. 공용 PC에서는 저장 옵션을 끄거나 이 삭제 기능을 사용하세요.
 
 ## 0.47.0 변경
 
