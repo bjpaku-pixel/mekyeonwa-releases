@@ -1,4 +1,4 @@
 {
-  "payload": "{\"schemaVersion\":1,\"version\":\"0.48.0\",\"platform\":\"win32\",\"arch\":\"x64\",\"url\":\"https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.48.0/mekyeonwa-0.48.0-windows-setup.exe\",\"size\":130000455,\"sha512\":\"oKwp2qc9urz66DILoOTtXdg6REa4rY1kbbvdxxz+VHT4RgxUMBGyHkWAs48Chkb4HivCXFr4l6k8oEgeVQMd5Q==\",\"issuedAt\":\"2026-11-08T13:05:58.717Z\",\"expiresAt\":\"2026-12-08T13:05:58.717Z\"}",
-  "signature": "8fdqdu7ec2/K80VpGIswToXbqe5CoeExE9eEYciAl1CBJ2fEZd8zeQjrAClYwu5hW+gSmt0gKB5nQV4J6bRmCg=="
+  "payload": "{\"schemaVersion\":1,\"version\":\"0.49.0\",\"platform\":\"win32\",\"arch\":\"x64\",\"url\":\"https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.49.0/mekyeonwa-0.49.0-windows-setup.exe\",\"size\":130005305,\"sha512\":\"sfZiO7cI9tNfOTrR206J23FVHiRWAqLRSAMZEXiR0HfHsttj604VykI7IKG8HZsWGO81lHKfCcUn6s9dzqYNBQ==\",\"issuedAt\":\"2026-11-09T12:05:09.727Z\",\"expiresAt\":\"2026-12-09T12:05:09.727Z\"}",
+  "signature": "yxQk9TDaB9gycAC/eBA8b5CMOcYlutwUaIUaHuycSUE6htwadkfUB/ad7MndrogVR1pKJeKkLT7KeDEo3i/tCQ=="
 }
