@@ -2,9 +2,9 @@
 
 메이플과 일상의 기록을 모으고, 필요한 기능을 선택해 설치하는 데스크톱 개인 대시보드입니다.
 
-최신 본체는 **0.50.0**입니다.
+최신 본체는 **0.51.0**입니다.
 
-[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.50.0/mekyeonwa-0.50.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.50.0)
+[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.51.0/mekyeonwa-0.51.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.51.0)
 
 ## 업데이트
 
@@ -20,6 +20,10 @@
 | 링크 스킬 + 유니온 | 1.0.2 |
 | 생활 계산기 | 1.0.6 |
 | 생각 보관함 | 1.0.1 |
+
+## 0.51.0 변경
+
+메모의 **폴더·태그 → ＋**에서 폴더를 만들 수 있습니다. 하나의 태그를 여러 폴더에 담고, 각 폴더에서 관련 메모를 한 번씩 봅니다. 폴더 배치는 이 PC에 저장합니다.
 
 ## 0.50.0 변경
 
