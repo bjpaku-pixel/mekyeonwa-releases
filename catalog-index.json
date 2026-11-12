@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-07T17:53:39.213Z",
+  "updatedAt": "2026-11-12T12:07:43.187Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/d94aded776ddb427738232a504e30f921e6628369821727be743d37af31de28a.json",
-        "size": 5051,
-        "sha256": "d94aded776ddb427738232a504e30f921e6628369821727be743d37af31de28a"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/6e18577086f2c46ea7c5546335f1510f2c1ecea0682d0ff82ec899bd4d4b7a0e.json",
+        "size": 5882,
+        "sha256": "6e18577086f2c46ea7c5546335f1510f2c1ecea0682d0ff82ec899bd4d4b7a0e"
       }
     },
     {
@@ -187,12 +187,6 @@
       "name": "벨로나",
       "domainId": "maple",
       "categoryId": "boss"
-    },
-    {
-      "id": "enhance-potential",
-      "name": "잠재능력/에디셔널",
-      "domainId": "maple",
-      "categoryId": "enhancement"
     },
     {
       "id": "enhance-soul",
