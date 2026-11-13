@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-12T12:07:43.187Z",
+  "updatedAt": "2026-11-13T11:10:38.797Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/6e18577086f2c46ea7c5546335f1510f2c1ecea0682d0ff82ec899bd4d4b7a0e.json",
-        "size": 5882,
-        "sha256": "6e18577086f2c46ea7c5546335f1510f2c1ecea0682d0ff82ec899bd4d4b7a0e"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/663f3335e8e949fbb874c70494ecad36525f7a7b881a4f194b9fdb3af15258bc.json",
+        "size": 9577,
+        "sha256": "663f3335e8e949fbb874c70494ecad36525f7a7b881a4f194b9fdb3af15258bc"
       }
     },
     {
@@ -187,30 +187,6 @@
       "name": "벨로나",
       "domainId": "maple",
       "categoryId": "boss"
-    },
-    {
-      "id": "enhance-soul",
-      "name": "소울 증폭 + 소울 잠재",
-      "domainId": "maple",
-      "categoryId": "enhancement"
-    },
-    {
-      "id": "enhance-stones",
-      "name": "연마석 + 신마석",
-      "domainId": "maple",
-      "categoryId": "enhancement"
-    },
-    {
-      "id": "enhance-additional-option",
-      "name": "추가 옵션",
-      "domainId": "maple",
-      "categoryId": "enhancement"
-    },
-    {
-      "id": "enhance-starforce",
-      "name": "스타포스",
-      "domainId": "maple",
-      "categoryId": "enhancement"
     },
     {
       "id": "enhance-todd",
