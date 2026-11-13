@@ -2,9 +2,9 @@
 
 메이플과 일상의 기록을 모으고, 필요한 기능을 선택해 설치하는 데스크톱 개인 대시보드입니다.
 
-최신 본체는 **0.54.0**입니다.
+최신 본체는 **0.55.0**입니다.
 
-[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.54.0/mekyeonwa-0.54.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.54.0)
+[Windows 설치 파일](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/v0.55.0/mekyeonwa-0.55.0-windows-setup.exe) · [변경 내역](https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/tag/v0.55.0)
 
 ## 업데이트
 
@@ -29,6 +29,10 @@
 ## 강화 도구
 
 **기능 센터 → 메이플 기능 → 강화 도구**에서 설치할 수 있습니다. 잠재능력/에디셔널 1.1.0에는 장비·등급별 확률표, 전후 비교 체험과 목표 옵션 기대값이 들어 있습니다. 다섯 팩에서 NEXON Open API로 캐릭터 장비를 조회할 수 있습니다. 체험과 기대값은 메켜놔에서 계산한 값입니다.
+
+## 0.55.0 변경
+
+메모를 넓은 문서형 편집기로 바꾸고, 달력의 완료 표시와 기념일 보기, 데일리 체크 목록과 시작 화면을 정리했습니다.
 
 ## 0.54.0 변경
 
