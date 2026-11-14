@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 2,
+  "domainId": "maple",
+  "updatedAt": "2026-11-14T18:11:42.122Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "boss-extreme-lotus",
+        "name": "익스트림 스우",
+        "version": "1.1.0",
+        "minAppVersion": "0.26.0",
+        "description": "보스 연습 메모와 행동·관찰·구간을 직접 타임라인에 정리합니다. 항목을 추가·편집하고 드래그로 시간을 조정하며 기존 빌드를 보존합니다.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/boss-extreme-lotus-1.1.0.mekpack",
+      "sha256": "685ccd9f3a62230471cdbe7a81f62503ab28aa7d3c70f648b4f8d7cc4c368483",
+      "size": 47600,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-07",
+      "categoryId": "boss"
+    },
+    {
+      "manifest": {
+        "id": "enhance-additional-option",
+        "name": "추가 옵션",
+        "version": "1.0.2",
+        "minAppVersion": "0.55.0",
+        "description": "환생의 불꽃이나 메소로 추가옵션을 게임처럼 재설정해 보고, 원하는 옵션이 나올 확률과 필요한 불꽃 개수·비용을 정확히 계산해요. 캐릭터 이름으로 장비를 불러오면 지금 추가옵션을 단계별 줄로 풀어 보여 줘요.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/enhance-additional-option-1.0.2.mekpack",
+      "sha256": "40a5256d2f8b9834dcb480b774e3e445284dd6fe9f986b775e3727572074eb55",
+      "size": 147423,
+      "addedAt": "2026-11-13",
+      "modifiedAt": "2026-11-13",
+      "categoryId": "enhancement"
+    },
+    {
+      "manifest": {
+        "id": "enhance-potential",
+        "name": "잠재능력/에디셔널",
+        "version": "1.1.2",
+        "minAppVersion": "0.55.0",
+        "description": "메이플스토리 홈페이지 확률 안내를 참고해 잠재능력 재설정을 체험하고, 원하는 옵션이 나올 확률과 필요한 횟수를 계산해요. 캐릭터 이름으로 장비를 불러와 그 장비로 체험할 수 있어요. 에디셔널은 다음 버전에서 추가합니다.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/enhance-potential-1.1.2.mekpack",
+      "sha256": "c29859ffc2d1788bfe73f7613cedeb7a18da38a9918c1ea30e02ba8d27ac74fe",
+      "size": 152038,
+      "addedAt": "2026-11-12",
+      "modifiedAt": "2026-11-13",
+      "categoryId": "enhancement"
+    },
+    {
+      "manifest": {
+        "id": "enhance-soul",
+        "name": "소울 증폭 + 소울 잠재",
+        "version": "1.0.2",
+        "minAppVersion": "0.55.0",
+        "description": "소울 부여·소울 증폭·소울 잠재능력을 게임처럼 체험하고, 목표 단계와 원하는 옵션까지 필요한 횟수·메소·에테르를 계산해요. 캐릭터 이름으로 무기를 불러와 그 무기로 체험할 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/enhance-soul-1.0.2.mekpack",
+      "sha256": "c3a786b05a3d69ef626aa457b3cd3911910db2d236904cd86e9c5d469dc1250a",
+      "size": 175180,
+      "addedAt": "2026-11-13",
+      "modifiedAt": "2026-11-13",
+      "categoryId": "enhancement"
+    },
+    {
+      "manifest": {
+        "id": "enhance-starforce",
+        "name": "스타포스",
+        "version": "1.0.2",
+        "minAppVersion": "0.55.0",
+        "description": "장비를 게임처럼 스타포스 강화해 보고, 스타캐치·파괴 방지·썬데이 메이플·할인을 넣어 목표 성까지 필요한 메소와 파괴 횟수를 계산해요. 캐릭터 이름으로 장비를 불러와 그 장비로 체험할 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/enhance-starforce-1.0.2.mekpack",
+      "sha256": "256b0af3dc1867005aee34d68fcc864521d68226c830902af503089319d75382",
+      "size": 121953,
+      "addedAt": "2026-11-13",
+      "modifiedAt": "2026-11-13",
+      "categoryId": "enhancement"
+    },
+    {
+      "manifest": {
+        "id": "enhance-stones",
+        "name": "연마석 + 신마석",
+        "version": "1.0.2",
+        "minAppVersion": "0.55.0",
+        "description": "리스트레인트 링·컨티뉴어스 링을 생명의 연마석·신념의 연마석으로 연마하고 생명의 보스 반지 상자를 열어 보며, 목표 레벨까지 필요한 연마석·메소를 계산해요. 캐릭터 이름으로 반지를 불러와 그 반지로 체험할 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/enhance-stones-1.0.2.mekpack",
+      "sha256": "0f4b3c42c9b6cf53a48774dc54eb104746b0cf9aeb2763e5285356fd18555d83",
+      "size": 123596,
+      "addedAt": "2026-11-13",
+      "modifiedAt": "2026-11-13",
+      "categoryId": "enhancement"
+    },
+    {
+      "manifest": {
+        "id": "maple-boss-income",
+        "name": "보스 수익",
+        "version": "1.1.0",
+        "minAppVersion": "0.41.0",
+        "description": "잡은 주간·월간 보스의 결정석 수익을 달력으로 모아 보세요. 넥슨 API로 이번 주 잡은 보스를 확인해 골라 넣고, 파티 인원과 가격표를 직접 정할 수 있어요.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-boss-income-1.1.0.mekpack",
+      "sha256": "198bacd718fa25ba4fe4b2fdf3cfe711c1873dcc2757725344469b8e2133ca0f",
+      "size": 59330,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-07",
+      "categoryId": "other"
+    },
+    {
+      "manifest": {
+        "id": "maple-calendar",
+        "name": "메이플 달력",
+        "version": "1.3.1",
+        "minAppVersion": "0.35.0",
+        "description": "메이플스토리 공식 이벤트의 종료일과 개인 일정·약속을 달력에서 확인하세요. 숙제 스케줄러는 별도 기능으로 설치합니다.",
+        "permissions": [
+          "storage",
+          "nexon.events"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-calendar-1.3.1.mekpack",
+      "sha256": "1c8f6bc973b06fdd3663743eb1523f16c08fb889d61a6cea6cd9b801a2c21a99",
+      "size": 64912,
+      "addedAt": "2026-10-18",
+      "modifiedAt": "2026-11-06",
+      "categoryId": "events"
+    },
+    {
+      "manifest": {
+        "id": "maple-scheduler",
+        "name": "스케줄러",
+        "version": "1.3.0",
+        "minAppVersion": "0.41.0",
+        "description": "메이플 홈에서 캐릭터 여섯 명씩 숙제와 보스 완료 현황을 확인하세요. 자동 스케줄러에서 표시를 설정하고 수동 스케줄러에서 직접 할 일을 관리할 수 있습니다.",
+        "permissions": [
+          "storage",
+          "nexon.character"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/maple-scheduler-1.3.0.mekpack",
+      "sha256": "35068fd58744df731befd265923283f0b928caa756e565bd31b8a50b8f731add",
+      "size": 171416,
+      "addedAt": "2026-10-28",
+      "modifiedAt": "2026-11-14",
+      "categoryId": "scheduler"
+    },
+    {
+      "manifest": {
+        "id": "progression-link-union",
+        "name": "링크 스킬 + 유니온",
+        "version": "1.0.3",
+        "minAppVersion": "0.26.0",
+        "description": "직업별 링크 스킬 1~3레벨 효과와 유니온 등급별 효과를 한곳에서 확인하세요. 12칸 링크 조합 합계와 내 유니온 효과를 계산하고, 목적별 추천 조합과 부캐 육성 순서를 참고할 수 있어요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/progression-link-union-1.0.3.mekpack",
+      "sha256": "3c17e4741a4dc2e6b3f361e6cd3ca280c8a92c5e0085e85f02348b3d1cad1cc2",
+      "size": 103405,
+      "addedAt": "2026-11-04",
+      "modifiedAt": "2026-11-13",
+      "categoryId": "progression"
+    },
+    {
+      "manifest": {
+        "id": "progression-optimization",
+        "name": "내실 최적화",
+        "version": "1.2.2",
+        "minAppVersion": "0.46.0",
+        "description": "공식 API로 장비·어빌리티·하이퍼·링크·유니온·심볼·코어·아티팩트를 조회합니다. 메켜놔의 계산 조건으로 해석 가능한 프리셋과 내실 배분을 비교하고, 제외 이유와 API 원본 전투력을 구분해 보여 줍니다.",
+        "permissions": [
+          "storage",
+          "nexon.lookup"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-maple/progression-optimization-1.2.2.mekpack",
+      "sha256": "b95459e7ae05a21045b476cd48040dc6d666295ca28bb91c53b257ef20a8423f",
+      "size": 291696,
+      "addedAt": "2026-11-05",
+      "modifiedAt": "2026-11-07",
+      "categoryId": "progression"
+    }
+  ]
+}
