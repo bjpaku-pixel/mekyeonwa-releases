@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-14T18:11:42.122Z",
+  "updatedAt": "2026-11-16T12:57:21.016Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/44b0abf26d00445ab94295a8100d75bdb3fd21ca2d8fb711d8019e8274f982c7.json",
-        "size": 9597,
-        "sha256": "44b0abf26d00445ab94295a8100d75bdb3fd21ca2d8fb711d8019e8274f982c7"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/56ba21c421f73bce6fd271212d70274c470250507e1778ba23a72646f0fc7dc4.json",
+        "size": 10510,
+        "sha256": "56ba21c421f73bce6fd271212d70274c470250507e1778ba23a72646f0fc7dc4"
       }
     },
     {
@@ -170,12 +170,6 @@
     }
   ],
   "planned": [
-    {
-      "id": "event-sunday-maple",
-      "name": "썬데이 메이플",
-      "domainId": "maple",
-      "categoryId": "events"
-    },
     {
       "id": "boss-kaling",
       "name": "카링",
