@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-16T12:57:21.016Z",
+  "updatedAt": "2026-11-18T02:19:46.236Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/56ba21c421f73bce6fd271212d70274c470250507e1778ba23a72646f0fc7dc4.json",
-        "size": 10510,
-        "sha256": "56ba21c421f73bce6fd271212d70274c470250507e1778ba23a72646f0fc7dc4"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/a1e3806e9ceb3dd36d8792ad1b45ba9518b88b634dcc4ce7735677ccf83fb0b4.json",
+        "size": 12648,
+        "sha256": "a1e3806e9ceb3dd36d8792ad1b45ba9518b88b634dcc4ce7735677ccf83fb0b4"
       }
     },
     {
@@ -189,12 +189,6 @@
       "categoryId": "enhancement"
     },
     {
-      "id": "progression-ability",
-      "name": "어빌리티",
-      "domainId": "maple",
-      "categoryId": "progression"
-    },
-    {
       "id": "progression-guild",
       "name": "길드",
       "domainId": "maple",
@@ -209,12 +203,6 @@
     {
       "id": "progression-critical-rate",
       "name": "크리티컬 확률",
-      "domainId": "maple",
-      "categoryId": "progression"
-    },
-    {
-      "id": "progression-required-skills",
-      "name": "필수 스킬 얻는 법",
       "domainId": "maple",
       "categoryId": "progression"
     },
