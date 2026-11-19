@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "domainId": "personal",
+  "updatedAt": "2026-11-19T12:32:07.201Z",
+  "packs": [
+    {
+      "manifest": {
+        "id": "everyday-calculator",
+        "name": "생활 계산기",
+        "version": "1.1.0",
+        "minAppVersion": "0.22.0",
+        "description": "일반 계산, 금액 한글 표기, 퍼센트, 날짜와 단위 변환을 각각의 도구로 빠르게 사용하세요.",
+        "permissions": [
+          "storage"
+        ]
+      },
+      "url": "https://github.com/bjpaku-pixel/mekyeonwa-releases/releases/download/packs-personal/everyday-calculator-1.1.0.mekpack",
+      "sha256": "8e1c0ef83294820aa80165cdc204a590238af796303515be266b8f37af4864a0",
+      "size": 50168,
+      "addedAt": "2026-10-22",
+      "modifiedAt": "2026-11-19",
+      "categoryId": "calculation"
+    }
+  ]
+}
