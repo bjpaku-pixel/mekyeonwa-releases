@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-18T02:19:46.236Z",
+  "updatedAt": "2026-11-19T12:32:07.201Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/a1e3806e9ceb3dd36d8792ad1b45ba9518b88b634dcc4ce7735677ccf83fb0b4.json",
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/f7aab99a3673b920b978f4f925b8c382099007a1f83c310bc7c4badf24e2ce76.json",
         "size": 12648,
-        "sha256": "a1e3806e9ceb3dd36d8792ad1b45ba9518b88b634dcc4ce7735677ccf83fb0b4"
+        "sha256": "f7aab99a3673b920b978f4f925b8c382099007a1f83c310bc7c4badf24e2ce76"
       }
     },
     {
@@ -21,9 +21,9 @@
       "enabled": true,
       "order": 20,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/b3758cf6aef321620e749da235a196645e44931563dbf03147caae0e0103b38a.json",
-        "size": 1502,
-        "sha256": "b3758cf6aef321620e749da235a196645e44931563dbf03147caae0e0103b38a"
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/personal/adb4621398ab71df29d55ecec236081536d065e2cd08106a222b4ad4c9f6e9b3.json",
+        "size": 830,
+        "sha256": "adb4621398ab71df29d55ecec236081536d065e2cd08106a222b4ad4c9f6e9b3"
       }
     },
     {
@@ -133,13 +133,13 @@
       "icon": "calculation"
     },
     {
-      "id": "record",
-      "domainId": "personal",
+      "id": "guidebook",
+      "domainId": "maple",
       "parentId": null,
-      "label": "기록과 정리",
-      "description": "생각을 자유롭게 담는 공간",
+      "label": "길라잡이",
+      "description": "처음 시작하거나 돌아온 분을 위한 안내",
       "order": 90,
-      "icon": "record"
+      "icon": "guide"
     },
     {
       "id": "productivity",
