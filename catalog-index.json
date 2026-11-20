@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-20T12:08:13.253Z",
+  "updatedAt": "2026-11-20T17:09:15.303Z",
   "domains": [
     {
       "id": "maple",
@@ -9,9 +9,9 @@
       "enabled": true,
       "order": 10,
       "catalog": {
-        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/e61ea3f0d49cf16881c2004ab9fa651216eaa0afb4323068359d5f77609a7649.json",
+        "url": "https://raw.githubusercontent.com/bjpaku-pixel/mekyeonwa-releases/main/catalogs/maple/58968524df4fb57c0bef0bc42e5c69c6038c503c7ff5ba0ef33555d3372e04ab.json",
         "size": 13536,
-        "sha256": "e61ea3f0d49cf16881c2004ab9fa651216eaa0afb4323068359d5f77609a7649"
+        "sha256": "58968524df4fb57c0bef0bc42e5c69c6038c503c7ff5ba0ef33555d3372e04ab"
       }
     },
     {
@@ -209,18 +209,6 @@
     {
       "id": "progression-ignore-defense",
       "name": "방어율 무시",
-      "domainId": "maple",
-      "categoryId": "progression"
-    },
-    {
-      "id": "progression-exp-buff",
-      "name": "경험치 도핑",
-      "domainId": "maple",
-      "categoryId": "progression"
-    },
-    {
-      "id": "progression-boss-buff",
-      "name": "보스 도핑",
       "domainId": "maple",
       "categoryId": "progression"
     },
